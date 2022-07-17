@@ -27,35 +27,4 @@ class FarmController {
 
 }
 
-// $cowcow = new FarmController();
-
-// echo "На ферме находится ".$cowcow->cow." коров и ".$cowcow->chicken." куриц", PHP_EOL;
-
-// $cowcow->getListAnimal($cowcow->cow, 'Корова');
-
-// echo PHP_EOL,"-------------------", PHP_EOL;
-// $cowcow->getListAnimal($cowcow->chicken, 'Курица');
-
-
-// echo PHP_EOL,"-------------------", PHP_EOL;
-// $cowcow->getListMilk(8, 12, 7, $cowcow->cow);
-
-// echo "-------------------", PHP_EOL;
-// $cowcow->getListEgg(7, 0, 1, $cowcow->chicken);
-
-// echo "-------------------", PHP_EOL;
-// $cowcow->newAnimal('корова', 1);
-// echo PHP_EOL;
-// $cowcow->newAnimal('курица', 5);
-
-// echo PHP_EOL;
-// echo "На ферме находится ".$cowcow->cow." коров и ".$cowcow->chicken." куриц", PHP_EOL;
-
-
-// echo "-------------------", PHP_EOL;
-// $cowcow->getListMilk(8, 12, 7, $cowcow->cow);
-
-// echo "-------------------", PHP_EOL;
-// $cowcow->getListEgg(7, 0, 1, $cowcow->chicken);
-
 ?>
